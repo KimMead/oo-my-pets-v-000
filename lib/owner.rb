@@ -58,7 +58,7 @@ class Owner
   def sell_pets
     @pets.collect do |species, instances|
       @pets.mood = "nervous"
-    end 
+    end
   end
 
   def list_pets
