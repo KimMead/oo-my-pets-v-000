@@ -56,10 +56,10 @@ class Owner
   end
 
   def sell_pets
-  end 
-  
+  end
+
   def list_pets
-  end 
+  end
 
   def self.all
     @@all
