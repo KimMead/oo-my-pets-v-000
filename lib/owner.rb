@@ -63,6 +63,7 @@ class Owner
     end
     instances.clear
     end
+  end 
   end
 
   def list_pets
